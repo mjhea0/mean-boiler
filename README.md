@@ -9,7 +9,7 @@ Sample App - [Landing Page](https://github.com/mjhea0/node-landing)
 ### Server
 
 - Place your traditional node/express application in the `app.js` file.
-- The "tests" folder is for unit/integration tests. This folder is then split between "api" and "model". Put your main Node/Express tests in the "api" folder and database tests in the "model" folder. Add your fixtures to the "tests" folder.
+- The "tests" folder is for unit/integration tests. This folder is split between the "api" and "model" folder. Put your main Node/Express tests in the "api" folder and database tests in the "model" folder. Use `sampledata.js` for your fixtures.
 
 ### Web
 
